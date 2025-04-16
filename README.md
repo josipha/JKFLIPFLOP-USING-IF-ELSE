@@ -1,3 +1,5 @@
+# NAME : NISHALINI R
+# REG NO : 212224040222
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
@@ -34,15 +36,38 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1.	Type the program in Quartus software.
+
+2.	Compile and run the program.
+
+3.	Generate the RTL schematic and save the logic diagram.
+
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+
+5.	For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
 
-**RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2025-04-16 085957](https://github.com/user-attachments/assets/d0f1f2cb-5d8a-4fd2-8260-ef9b3eabea89)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TRUTH TABLE**
+
+
+![Screenshot 2025-04-16 084917](https://github.com/user-attachments/assets/3e327291-bba1-43fe-8c71-0834e683323d)
+
+
+**RTL**
+
+![Screenshot 2025-04-16 090032](https://github.com/user-attachments/assets/265bcd56-a65a-4a6a-b8db-3509e853c867)
+
+
+**WAVEFORM**
+
+![Screenshot 2025-04-16 090112](https://github.com/user-attachments/assets/10fd6eec-a3bb-4af6-b4b9-dd1a2655a5a3)
+
 
 **RESULTS**
+
+ The implement  JK flipflop using verilog and validating their functionality using their functional tables is verified successfully.
+
